@@ -24,3 +24,15 @@ end alfred_script
 
 refer https://github.com/vitorgalvao/custom-alfred-iterm-scripts
 
+---
+
+
+
+#### Open in VSCode Installation
+
+- Download [Alfred Workflow 4 Open in VSCode](https://www.dropbox.com/s/8tf7vae3djsos55/Open in VSCode.alfredworkflow?dl=0)
+- Open the workflow in Alfred.
+- Set workflow environment `wds` to your project base folders (split with `,`). e.g. `wds`: `/Users/vivaxy/Developers/github,/Users/vivaxy/Developers/gitlab`. Workflow searches only first level folders, so make sure `wds` point to them. `wds` stands for `working directories`
+
+---
+
